@@ -1,0 +1,122 @@
+[
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1579610192855,
+            "changeTime": 1579615685036,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1579610192855,
+            "changeTime": 1579610192855,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1579612514069,
+            "changeTime": 1579612514069,
+            "contentHash": "2966b40c8eb9162afe090abf1727469d39982972",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1579610192855,
+            "changeTime": 1579610192855,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1579612514074,
+            "changeTime": 1579612514074,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9965,
+            "modifiedTime": 1579615726376,
+            "changeTime": 1579615726376,
+            "contentHash": "feafdcd7160b853fd261f842f36aa358265b0ae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1579610207293,
+            "changeTime": 1579610207293,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/guidorivoir/Desktop/einstein-next-best-action-demo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/guidorivoir/Desktop/einstein-next-best-action-demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1579615722835,
+            "changeTime": 1579615722835,
+            "contentHash": "df5ae68bfc146686ac56851a3a32e15ec8206c6d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
