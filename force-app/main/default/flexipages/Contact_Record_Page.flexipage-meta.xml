@@ -227,7 +227,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>strategyName</name>
-                <!-- <value>Upgrade_Or_Retain</value> -->
+                <value>Upgrade_Or_Retain</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>widgetTitle</name>
